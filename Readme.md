@@ -1,9 +1,7 @@
 # 🏦 **Bank Loan Analysis Dashboard (Power BI)**
 
 ## 📌 **Overview**
-This project focuses on building **interactive Power BI dashboards** to analyze and monitor **bank loan performance**.  
-The solution provides key KPIs with **MTD and MoM analysis**, differentiates **Good vs Bad loans**, and delivers insights across **time, geography, and borrower attributes**.  
-These dashboards help stakeholders track **portfolio health**, identify **trends**, and support **data-driven lending and risk decisions**.
+This project focuses on building **interactive Power BI dashboards** to analyze and monitor **bank loan performance**. The solution provides key KPIs with **MTD and MoM analysis**, differentiates **Good vs Bad loans**, and delivers insights across **time, geography, and borrower attributes**. These dashboards help stakeholders track **portfolio health**, identify **trends**, and support **data-driven lending and risk decisions**.
 
 ---
 
@@ -85,7 +83,7 @@ to support **data-driven decision-making and risk assessment**.
 - Donut Charts (Good Loan % vs Bad Loan %)  
 - Tabular Grid (Loan Status Analysis)  
 
-![Dashboard Preview](Link)
+![Dashboard Preview](https://github.com/pramodsd160/bank_loan_analysis_sql-powerbi/blob/main/images/bank_loan_analysis_dashboard_summary.jpg)
 
 ---
 
@@ -104,7 +102,7 @@ to support **data-driven decision-making and risk assessment**.
 - Bar Charts (Employment Length, Loan Purpose)  
 - Tree Map (Home Ownership)  
 
-![Dashboard Preview](Link)
+![Dashboard Preview](https://github.com/pramodsd160/bank_loan_analysis_sql-powerbi/blob/main/images/bank_loan_analysis_dashboard_overview.jpg)
 
 ---
 
@@ -119,7 +117,7 @@ to support **data-driven decision-making and risk assessment**.
 - Detailed Table / Grid  
 - Slicers (State, Grade, Good vs Bad Loan)  
 
-![Dashboard Preview](Link)
+![Dashboard Preview](https://github.com/pramodsd160/bank_loan_analysis_sql-powerbi/blob/main/images/bank_loan_analysis_dashboard_details.jpg)
 
 ---
 
@@ -168,6 +166,6 @@ or
 
 ## **Author & Contact**
 👤 **Author:** Pramod Dhamane (Data Analyst)
-  - **[Email](pramodsd160@gmail.com)**
-  - **[LinkedIn](www.linkedin.com/in/pramoddhamane)**
-  - **[GitHub](https://github.com/pramodsd160)** # bank_loan_analysis_sql-powerbi
+  - **[Email](mailto:pramodsd160@gmail.com)**  
+  - **[LinkedIn](https://www.linkedin.com/in/pramoddhamane)**  
+  - **[GitHub](https://github.com/pramodsd160)** 
