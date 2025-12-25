@@ -17,7 +17,7 @@ This project focuses on building **interactive Power BI dashboards** to analyze 
   - [Details Dashboard](#3-details-dashboard)
 - [Key Learnings](#-key-learnings)
 - [Conclusion](#-conclusion)
-- [How to Run the Project](#-how-to-run-the-project)
+- [How to Run the Project](#how-to-run-the-project)
 - [Author & Contact](#author--contact)
 
 ---
@@ -137,7 +137,7 @@ By combining high-level KPIs with detailed drill-down analysis, the solution ena
 
 ---
 
-## ▶️ **How to Run the Project**
+## **How to Run the Project**
 
 ### 1. **Oracle SQL Developer**
 - Import `bank_loan_analysis.csv` into Oracle database  
