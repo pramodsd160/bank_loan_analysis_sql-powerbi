@@ -18,7 +18,7 @@ This project focuses on building **interactive Power BI dashboards** to analyze 
 - [Key Learnings](#-key-learnings)
 - [Conclusion](#-conclusion)
 - [How to Run the Project](#-how-to-run-the-project)
-- [Author & Contact](#author-&-contact)
+- [Author & Contact](#author--contact)
 
 ---
 
